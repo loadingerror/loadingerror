@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm Marina</h1>
 <h3 align="center">A passionate [Data] Girl from Rio.</h3>
 
-- 🔭 I’m currently working on [my personal Projects that you can find here searching throught my repositories.](https://github.com/loadingerror)
+-I’m currently working on [my personal Projects that you can find here searching throught my repositories.](https://github.com/loadingerror)
 
-- 🌱 I’m currently learning **Python, R lang, SQL, Tableau, PowerBi and so on**
+-I’m currently learning **Python, R lang, SQL, Tableau, PowerBi and so on**
 
-- 👯 I’m looking to collaborate on **IA Projects**
+-I’m looking to collaborate on **IA Projects**
 
-- 🤝 I’m looking for help with **Data Science tools. Tips are always welcome.**
+-I’m looking for help with **Data Science tools. Tips are always welcome.**
 
-- 👨‍💻 All of my projects are available here at [https://github.com/loadingerror](https://github.com/loadingerror)
+-All of my projects are available here at [https://github.com/loadingerror](https://github.com/loadingerror)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/marinaslferreira/](https://www.linkedin.com/in/marinaslferreira/)
+-Know about my experiences [https://www.linkedin.com/in/marinaslferreira/](https://www.linkedin.com/in/marinaslferreira/)
 
-- 💬 Ask me about **Code in R, ethics, careers...I'll be happy to help!**
+-Ask me about **Code in R, ethics, careers...I'll be happy to help!**
 
-- 📫 How to reach me **marinaslferreira@gmail.com**
+-How to reach me **marinaslferreira@gmail.com**
 
-- ⚡ Fun fact **Love cats, beach, beer, powerlifting, jiu-jitsu (bluebelt).**
+-Fun fact **Love cats, beach, beer, powerlifting, jiu-jitsu (bluebelt).**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
