@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Marina</h1>
+<h1 align="center">Hi, I'm Marina</h1>
 <h3 align="center">A passionate [Data] Girl from Rio.</h3>
 
 -I’m currently working on [my personal Projects that you can find here searching throught my repositories.](https://github.com/loadingerror)
 
--I’m currently learning **Python, R lang, SQL, Tableau, PowerBi and so on**
+-I’m currently learning **Python, R lang, SQL, Tableau, PowerBi, Quicksight, AWS and so on**
 
 -I’m looking to collaborate on **IA Projects**
 
 -I’m looking for help with **Data Science tools. Tips are always welcome.**
 
--All of my projects are available here at [https://github.com/loadingerror](https://github.com/loadingerror)
+-Some of my projects are available here at [https://github.com/loadingerror](https://github.com/loadingerror)
 
 -Know about my experiences [https://www.linkedin.com/in/marinaslferreira/](https://www.linkedin.com/in/marinaslferreira/)
 
