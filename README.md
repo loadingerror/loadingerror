@@ -3,7 +3,9 @@
 
 -I’m currently working on [my personal Projects that you can find here searching throught my repositories.](https://github.com/loadingerror)
 
--I’m currently learning **Python, R lang, SQL, Tableau, PowerBi, Quicksight, AWS and so on**
+- You can find me on Rpubs: [https://rpubs.com/loadingerror](https://rpubs.com/loadingerror)
+
+-I’m currently learning **Python, R lang, SQL, Tableau, AWS, GCP and so on**
 
 -I’m looking to collaborate on **IA Projects**
 
